@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "65xx")(type "Legacy")(uri "${KIPRJMOD}/../parts/lib_sch/65xx.lib")(options "")(descr ""))
+  (lib (name "Yamaha")(type "KiCad")(uri "C:/Users/joe_b/Dev/OtterX/parts/sym_sch/yamaha.kicad_sym")(options "")(descr ""))
+  (lib (name "OtterX")(type "KiCad")(uri "C:/Users/joe_b/Dev/OtterX/parts/sym_sch/OtterX.kicad_sym")(options "")(descr ""))
+)

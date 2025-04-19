@@ -1,0 +1,23 @@
+#
+#SamacSys ECAD Model MD-40S
+#/11998875/451214/2.49/5/4/Connector
+DEF MD-40S J 0 30 Y Y 1 F N
+F0 "J" 750 300 50 H V L CNN
+F1 "MD-40S" 750 200 50 H V L CNN
+F2 "MD40S" 750 100 50 H I L CNN
+F3 "https://www.arrow.com/en/products/md-40s/cui-devices" 750 0 50 H I L CNN
+F4 "Mini-DIN 4 Position, S-Video Connector" 750 -100 50 H I L CNN "Description"
+F5 "13.05" 750 -200 50 H I L CNN "Height"
+F6 "490-MD-40S" 750 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/CUI-Devices/MD-40S/?qs=WyjlAZoYn51t2gfmSwkdjw%3D%3D" 750 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "CUI Inc." 750 -500 50 H I L CNN "Manufacturer_Name"
+F9 "MD-40S" 750 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X 1 1 0 0 200 R 50 50 0 0 P
+X 2 2 0 -100 200 R 50 50 0 0 P
+X 3 3 0 -200 200 R 50 50 0 0 P
+X 4 4 900 0 200 L 50 50 0 0 P
+X MH1 MH1 900 -100 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 700 100 700 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
