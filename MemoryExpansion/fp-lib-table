@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "OtterX")(type "KiCad")(uri "${KIPRJMOD}/../../parts/footprints.pretty")(options "")(descr ""))
+)
