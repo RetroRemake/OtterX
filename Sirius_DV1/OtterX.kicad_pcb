@@ -8052,6 +8052,17 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "C:/Users/joe_b/Dev/OtterX/parts/packages3d/MemoryExpansion.step"
+			(offset
+				(xyz 24 -13 7.75)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 90)
+			)
+		)
 	)
 	(footprint "Diode_THT:D_DO-41_SOD81_P7.62mm_Horizontal"
 		(layer "F.Cu")
@@ -14908,7 +14919,7 @@
 		)
 		(model "${KIPRJMOD}/../parts/packages3d/snes_connector_v1.STEP"
 			(offset
-				(xyz 6.5 -9 0)
+				(xyz 6.5 -9 1.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -17753,6 +17764,39 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "C:/Users/joe_b/Dev/OtterX/parts/packages3d/VERAX6.step"
+			(offset
+				(xyz 25.5 7.75 18.75)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 90)
+			)
+		)
+		(model "C:/Users/joe_b/Dev/OtterX/parts/packages3d/Calypso.step"
+			(offset
+				(xyz 25 5.65 30)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 90)
+			)
+		)
+		(model "C:/Users/joe_b/Dev/OtterX/parts/packages3d/MIDH-Bean-EV4.step"
+			(offset
+				(xyz 28.5 -34.5 10.35)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 90)
 			)
 		)
 	)
@@ -56307,6 +56351,7 @@
 			(uuid "ed42a253-04e0-4164-9bad-4e2191835db3")
 		)
 		(model "${KIPRJMOD}/../parts/packages3d/SDF-60J.stp"
+			(hide yes)
 			(offset
 				(xyz 0 0 0)
 			)
@@ -64057,16 +64102,15 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "${KIPRJMOD}/../parts/packages3d/pico_PSU.step"
-			(hide yes)
+		(model "C:/Users/joe_b/Dev/OtterX/parts/packages3d/OtterPower.step"
 			(offset
-				(xyz -4.15 4.55 15)
+				(xyz 0 3 28.5)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 0 180)
+				(xyz -90 0 -180)
 			)
 		)
 	)

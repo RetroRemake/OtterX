@@ -592,7 +592,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "OtterX.step",
+      "step": "OtterX_OverFull_MIDH.step",
       "svg": "",
       "vrml": "OtterX.wrl"
     },
