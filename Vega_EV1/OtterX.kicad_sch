@@ -12396,7 +12396,7 @@
 	)
 	(global_label "CA1"
 		(shape output)
-		(at 313.055 90.17 0)
+		(at 312.42 90.17 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -12406,7 +12406,7 @@
 		)
 		(uuid "153ece8c-b74e-409d-b07b-27a9280a4d59")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 319.5289 90.17 0)
+			(at 318.8939 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12989,7 +12989,7 @@
 	)
 	(global_label "CB2"
 		(shape output)
-		(at 313.055 95.25 0)
+		(at 312.42 95.25 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -12999,7 +12999,7 @@
 		)
 		(uuid "4f92ef17-cb84-47e7-8569-63e2b93f1be2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 319.2176 95.1706 0)
+			(at 318.5826 95.1706 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13209,7 +13209,7 @@
 	)
 	(global_label "CA2"
 		(shape output)
-		(at 313.055 92.71 0)
+		(at 312.42 92.71 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -13219,7 +13219,7 @@
 		)
 		(uuid "651abe44-fdef-43e5-a1c8-d3bce7ba7c8d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 319.5289 92.71 0)
+			(at 318.8939 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13384,7 +13384,7 @@
 	)
 	(global_label "V1PB0"
 		(shape bidirectional)
-		(at 300.355 92.71 180)
+		(at 299.72 92.71 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -13394,7 +13394,7 @@
 		)
 		(uuid "7aeadd4e-9e6c-47fb-8ab4-528bd2d7908a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 291.8943 92.6306 0)
+			(at 291.2593 92.6306 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14747,7 +14747,7 @@
 	)
 	(global_label "V1PB2"
 		(shape bidirectional)
-		(at 300.355 97.79 180)
+		(at 299.72 97.79 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -14757,7 +14757,7 @@
 		)
 		(uuid "fa7d1ad9-3f52-4f12-8399-84494750c9dd")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 291.8943 97.7106 0)
+			(at 291.2593 97.7106 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14835,7 +14835,7 @@
 	)
 	(global_label "V1PB1"
 		(shape bidirectional)
-		(at 300.355 95.25 180)
+		(at 299.72 95.25 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -14845,7 +14845,7 @@
 		)
 		(uuid "fef2dab1-c2d2-4112-9243-fa8ca3c47c56")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 291.8943 95.1706 0)
+			(at 291.2593 95.1706 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18631,7 +18631,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 313.055 97.79 0)
+		(at 312.42 97.79 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -18641,7 +18641,7 @@
 		(fields_autoplaced yes)
 		(uuid "87b6c768-c037-4316-ae92-38e29311dfd3")
 		(property "Reference" "#PWR010"
-			(at 313.055 104.14 0)
+			(at 312.42 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18650,7 +18650,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 313.055 102.235 0)
+			(at 312.42 102.235 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18658,7 +18658,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 313.055 97.79 0)
+			(at 312.42 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18667,7 +18667,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 313.055 97.79 0)
+			(at 312.42 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18676,7 +18676,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 313.055 97.79 0)
+			(at 312.42 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19712,7 +19712,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 300.355 90.17 90)
+		(at 299.72 90.17 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -19722,7 +19722,7 @@
 		(fields_autoplaced yes)
 		(uuid "a5b3d097-4f40-4f78-b403-49b9a1a8e521")
 		(property "Reference" "#PWR09"
-			(at 304.165 90.17 0)
+			(at 303.53 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19731,7 +19731,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 296.545 90.1699 90)
+			(at 295.91 90.1699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19740,7 +19740,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 300.355 90.17 0)
+			(at 299.72 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19749,7 +19749,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 300.355 90.17 0)
+			(at 299.72 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19758,7 +19758,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 300.355 90.17 0)
+			(at 299.72 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20224,7 +20224,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "b47510c2-2afd-4ba2-bb9d-a82f669b15fc")
 		(property "Reference" "J3"
 			(at 307.34 133.35 0)
@@ -20242,7 +20241,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical"
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_2x05_P2.54mm_Vertical"
 			(at 306.07 144.78 0)
 			(effects
 				(font
@@ -21435,16 +21434,16 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_02x04_Odd_Even")
-		(at 305.435 92.71 0)
+		(at 304.8 95.25 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "ea84fa7d-44d5-4656-8c22-612084e2fc01")
 		(property "Reference" "J12"
-			(at 306.705 83.82 0)
+			(at 306.07 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21452,15 +21451,15 @@
 			)
 		)
 		(property "Value" "VIA1 Extra Pins"
-			(at 306.705 86.36 0)
+			(at 306.07 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x04_P2.54mm_Vertical"
-			(at 305.435 92.71 0)
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_2x04_P2.54mm_Horizontal"
+			(at 304.8 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21469,7 +21468,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 305.435 92.71 0)
+			(at 304.8 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21478,7 +21477,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 305.435 92.71 0)
+			(at 304.8 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21929,7 +21928,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_2x03_P2.54mm_Vertical"
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_2x03_P2.54mm_Horizontal"
 			(at 155.575 229.87 0)
 			(effects
 				(font
