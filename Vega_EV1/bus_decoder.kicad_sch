@@ -7172,6 +7172,7 @@
 	)
 	(label "~{ROMENL}"
 		(at 203.2 90.17 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7182,6 +7183,7 @@
 	)
 	(label "~{ROMENL}"
 		(at 101.6 118.11 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13388,7 +13390,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e70793b5-dfe8-45ea-aa50-c12feb950876")
-		(property "Reference" "#PWR13"
+		(property "Reference" "#PWR013"
 			(at 198.12 124.46 0)
 			(effects
 				(font
@@ -13438,7 +13440,7 @@
 		(instances
 			(project "OtterX"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/c61c071c-37eb-4a39-8e8e-221cb43e3fee"
-					(reference "#PWR13")
+					(reference "#PWR013")
 					(unit 1)
 				)
 			)

@@ -5381,6 +5381,7 @@
 	)
 	(label "D6"
 		(at 73.66 86.36 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5391,6 +5392,7 @@
 	)
 	(label "YMVREF_IN"
 		(at 187.833 55.245 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5401,6 +5403,7 @@
 	)
 	(label "D1"
 		(at 73.66 73.66 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5411,6 +5414,7 @@
 	)
 	(label "~{RES}"
 		(at 189.865 135.255 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5421,6 +5425,7 @@
 	)
 	(label "YMSAMP_OUT"
 		(at 187.96 59.817 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5431,6 +5436,7 @@
 	)
 	(label "YM_CT1"
 		(at 59.69 96.52 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5441,6 +5447,7 @@
 	)
 	(label "YMANL_5V"
 		(at 167.64 33.02 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5451,6 +5458,7 @@
 	)
 	(label "D7"
 		(at 73.66 88.9 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5461,6 +5469,7 @@
 	)
 	(label "YM_COM"
 		(at 187.325 64.897 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5471,6 +5480,7 @@
 	)
 	(label "D2"
 		(at 73.66 76.2 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5481,6 +5491,7 @@
 	)
 	(label "D5"
 		(at 73.66 83.82 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5491,6 +5502,7 @@
 	)
 	(label "SO"
 		(at 137.16 59.69 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5501,6 +5513,7 @@
 	)
 	(label "YMVREF_OUT"
 		(at 187.071 50.927 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5511,6 +5524,7 @@
 	)
 	(label "YM_CT2"
 		(at 58.42 93.98 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5521,6 +5535,7 @@
 	)
 	(label "SH1"
 		(at 135.89 64.77 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5531,6 +5546,7 @@
 	)
 	(label "D3"
 		(at 73.66 78.74 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5541,6 +5557,7 @@
 	)
 	(label "YMANL_CH1"
 		(at 187.325 92.075 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5551,6 +5568,7 @@
 	)
 	(label "YMVREF_BIAS"
 		(at 186.055 45.72 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5561,6 +5579,7 @@
 	)
 	(label "SH2"
 		(at 135.89 67.31 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5571,6 +5590,7 @@
 	)
 	(label "YM_CLK"
 		(at 73.66 49.53 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5581,6 +5601,7 @@
 	)
 	(label "YMANL_CH2"
 		(at 189.865 73.66 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5591,6 +5612,7 @@
 	)
 	(label "YM_CLK2"
 		(at 137.16 54.61 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5601,6 +5623,7 @@
 	)
 	(label "D4"
 		(at 73.66 81.28 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5611,6 +5634,7 @@
 	)
 	(label "D0"
 		(at 73.66 71.12 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)

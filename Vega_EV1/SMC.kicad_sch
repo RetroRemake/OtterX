@@ -6919,6 +6919,7 @@
 	)
 	(label "PS2K_CLK"
 		(at 57.15 161.29 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6929,6 +6930,7 @@
 	)
 	(label "SMC_SCL"
 		(at 172.72 156.845 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6939,6 +6941,7 @@
 	)
 	(label "~{SMC_IRQ}"
 		(at 154.94 41.91 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6949,6 +6952,7 @@
 	)
 	(label "ACTLED"
 		(at 78.74 50.8 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6959,6 +6963,7 @@
 	)
 	(label "~{SMC_RESET}"
 		(at 154.94 46.99 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6969,6 +6974,7 @@
 	)
 	(label "SMC_SCL"
 		(at 144.272 173.736 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6979,6 +6985,7 @@
 	)
 	(label "RESBTN_PD"
 		(at 107.95 68.58 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6989,6 +6996,7 @@
 	)
 	(label "BI_ACTLED"
 		(at 111.76 50.8 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6999,6 +7007,7 @@
 	)
 	(label "SMC_SDA"
 		(at 78.74 58.42 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7009,6 +7018,7 @@
 	)
 	(label "~{SMC_IRQ}"
 		(at 57.15 156.21 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7019,6 +7029,7 @@
 	)
 	(label "SMC_SDA"
 		(at 172.72 159.385 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7029,6 +7040,7 @@
 	)
 	(label "PS2K_DAT"
 		(at 57.15 163.83 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7039,6 +7051,7 @@
 	)
 	(label "PS2M_DAT"
 		(at 57.15 166.37 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7049,6 +7062,7 @@
 	)
 	(label "FP_PWRLED"
 		(at 78.74 102.87 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7059,6 +7073,7 @@
 	)
 	(label "FP_ACTLED"
 		(at 55.245 102.87 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7069,6 +7084,7 @@
 	)
 	(label "PWR_OK"
 		(at 78.74 43.18 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7079,6 +7095,7 @@
 	)
 	(label "PS2M_CLK"
 		(at 57.15 168.91 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7089,6 +7106,7 @@
 	)
 	(label "POW_PD"
 		(at 107.95 45.72 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7099,6 +7117,7 @@
 	)
 	(label "~{RES}"
 		(at 57.15 158.75 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7109,6 +7128,7 @@
 	)
 	(label "12V0_UF"
 		(at 233.045 50.8 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7119,6 +7139,7 @@
 	)
 	(label "PS2K_DAT"
 		(at 78.74 66.04 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7129,6 +7150,7 @@
 	)
 	(label "PS2K_CLK"
 		(at 78.74 40.64 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7139,6 +7161,7 @@
 	)
 	(label "RES_BTN"
 		(at 58.42 107.95 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7149,6 +7172,7 @@
 	)
 	(label "5V0_UF"
 		(at 233.045 53.34 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7159,6 +7183,7 @@
 	)
 	(label "SMC_SDA"
 		(at 142.875 148.844 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7169,6 +7194,7 @@
 	)
 	(label "ACTLED"
 		(at 38.735 102.87 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7179,6 +7205,7 @@
 	)
 	(label "~{SMC_RESET}"
 		(at 78.74 76.2 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7189,6 +7216,7 @@
 	)
 	(label "SMC_SCL"
 		(at 78.74 63.5 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7199,6 +7227,7 @@
 	)
 	(label "RTC_GPIO"
 		(at 172.72 164.465 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7209,6 +7238,7 @@
 	)
 	(label "N12V0_UF"
 		(at 233.045 66.04 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7219,6 +7249,7 @@
 	)
 	(label "~{SMC_NMI}"
 		(at 78.74 38.1 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7229,6 +7260,7 @@
 	)
 	(label "PS2M_DAT"
 		(at 78.74 71.12 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7239,6 +7271,7 @@
 	)
 	(label "SMC_SDA"
 		(at 188.595 44.45 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7249,6 +7282,7 @@
 	)
 	(label "PS2M_CLK"
 		(at 78.74 73.66 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7259,6 +7293,7 @@
 	)
 	(label "~{PS_ON}"
 		(at 78.74 48.26 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7269,6 +7304,7 @@
 	)
 	(label "~{SMC_NMI}"
 		(at 169.545 150.495 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7279,6 +7315,7 @@
 	)
 	(label "POW_BTN"
 		(at 78.74 45.72 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7289,6 +7326,7 @@
 	)
 	(label "RESBTN_PD"
 		(at 55.245 110.49 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7299,6 +7337,7 @@
 	)
 	(label "5VSB_UF"
 		(at 233.045 55.88 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7309,6 +7348,7 @@
 	)
 	(label "SMC_SCL"
 		(at 154.94 44.45 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7319,6 +7359,7 @@
 	)
 	(label "~{SMC_IRQ}"
 		(at 78.74 60.96 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7329,6 +7370,7 @@
 	)
 	(label "POW_BTN"
 		(at 86.995 107.95 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7339,6 +7381,7 @@
 	)
 	(label "RES_BTN"
 		(at 78.74 68.58 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7349,6 +7392,7 @@
 	)
 	(label "NMI_BTN"
 		(at 80.01 55.88 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7359,6 +7403,7 @@
 	)
 	(label "VBATT"
 		(at 194.945 148.59 90)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7369,6 +7414,7 @@
 	)
 	(label "~{RES}"
 		(at 78.74 35.56 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7379,6 +7425,7 @@
 	)
 	(label "POW_PD"
 		(at 86.995 110.49 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
