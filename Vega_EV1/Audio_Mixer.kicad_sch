@@ -1816,7 +1816,6 @@
 	)
 	(label "R_P_FILT"
 		(at 108.585 50.8 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1827,7 +1826,6 @@
 	)
 	(label "L_P_FILT"
 		(at 105.41 148.59 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1838,7 +1836,6 @@
 	)
 	(label "L_MIX"
 		(at 81.28 145.415 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1849,7 +1846,6 @@
 	)
 	(label "R_MIX"
 		(at 80.645 52.705 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)

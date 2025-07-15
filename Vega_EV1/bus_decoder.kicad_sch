@@ -7172,7 +7172,6 @@
 	)
 	(label "~{ROMENL}"
 		(at 203.2 90.17 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7183,7 +7182,6 @@
 	)
 	(label "~{ROMENL}"
 		(at 101.6 118.11 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9003,7 +9001,7 @@
 				)
 			)
 		)
-		(property "Value" "74AHCT10"
+		(property "Value" "74AC10"
 			(at 34.29 160.02 0)
 			(effects
 				(font
@@ -9276,7 +9274,7 @@
 				)
 			)
 		)
-		(property "Value" "74AHCT20"
+		(property "Value" "74AC20"
 			(at 57.15 81.915 0)
 			(effects
 				(font
@@ -9373,7 +9371,7 @@
 				)
 			)
 		)
-		(property "Value" "74AHCT20"
+		(property "Value" "74AC20"
 			(at 93.98 78.105 0)
 			(effects
 				(font
@@ -9944,7 +9942,7 @@
 				)
 			)
 		)
-		(property "Value" "74AHCT00"
+		(property "Value" "74ACT00"
 			(at 34.29 180.34 0)
 			(effects
 				(font
@@ -10325,7 +10323,7 @@
 				)
 			)
 		)
-		(property "Value" "74AHCT10"
+		(property "Value" "74AC10"
 			(at 34.29 170.18 0)
 			(effects
 				(font
@@ -10957,7 +10955,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "74AHCT20"
+		(property "Value" "74AC20"
 			(at 137.414 179.07 0)
 			(effects
 				(font
@@ -11055,7 +11053,7 @@
 				)
 			)
 		)
-		(property "Value" "74AHCT10"
+		(property "Value" "74AC10"
 			(at 76.2 170.815 0)
 			(effects
 				(font
@@ -11262,7 +11260,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "74AHCT20"
+		(property "Value" "74AC20"
 			(at 137.541 166.878 0)
 			(effects
 				(font
@@ -11841,7 +11839,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "74AHCT10"
+		(property "Value" "74AC10"
 			(at 137.541 108.458 0)
 			(effects
 				(font
@@ -12430,7 +12428,7 @@
 				)
 			)
 		)
-		(property "Value" "74AHCT00"
+		(property "Value" "74ACT00"
 			(at 34.925 113.03 0)
 			(effects
 				(font
@@ -12534,7 +12532,7 @@
 				)
 			)
 		)
-		(property "Value" "74AHCT20"
+		(property "Value" "74AC20"
 			(at 57.15 41.275 0)
 			(effects
 				(font
@@ -12765,7 +12763,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "74AHCT00"
+		(property "Value" "74ACT00"
 			(at 137.541 131.318 0)
 			(effects
 				(font
@@ -12936,7 +12934,7 @@
 				)
 			)
 		)
-		(property "Value" "74AHCT00"
+		(property "Value" "74ACT00"
 			(at 57.785 148.59 0)
 			(effects
 				(font
@@ -13190,7 +13188,7 @@
 				)
 			)
 		)
-		(property "Value" "74AHCT00"
+		(property "Value" "74ACT00"
 			(at 57.785 132.334 0)
 			(effects
 				(font
@@ -13848,7 +13846,7 @@
 				)
 			)
 		)
-		(property "Value" "74AHCT20"
+		(property "Value" "74AC20"
 			(at 94.488 44.958 0)
 			(effects
 				(font

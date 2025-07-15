@@ -725,24 +725,6 @@
 				)
 			)
 			(pin passive line
-				(at 0 1.905 0)
-				(length 2.54) hide
-				(name "V+"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
 				(at 8.255 -6.985 180)
 				(length 2.54)
 				(name "V-"
@@ -752,7 +734,7 @@
 						)
 					)
 				)
-				(number "3"
+				(number "2"
 					(effects
 						(font
 							(size 1.27 1.27)
