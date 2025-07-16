@@ -23569,7 +23569,8 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_02x03_Odd_Even")
-		(at 158.75 229.87 180)
+		(at 156.21 229.87 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -23593,7 +23594,7 @@
 			)
 		)
 		(property "Footprint" "Connector_IDC:IDC-Header_2x03_P2.54mm_Vertical"
-			(at 158.75 229.87 0)
+			(at 156.21 229.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23602,7 +23603,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 158.75 229.87 0)
+			(at 156.21 229.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23611,7 +23612,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 158.75 229.87 0)
+			(at 156.21 229.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
