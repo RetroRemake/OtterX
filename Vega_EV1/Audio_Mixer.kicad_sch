@@ -2760,7 +2760,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Rect_L10.3mm_W5.7mm_P7.50mm_MKS4"
+		(property "Footprint" "Capacitor_THT:C_Rect_L7.2mm_W5.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2"
 			(at 128.905 61.595 0)
 			(effects
 				(font
@@ -2780,6 +2780,15 @@
 		)
 		(property "Description" ""
 			(at 128.905 61.595 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "MKS2B042201F00JSSD"
+			(at 128.905 61.595 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3402,7 +3411,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Rect_L10.3mm_W5.7mm_P7.50mm_MKS4"
+		(property "Footprint" "Capacitor_THT:C_Rect_L7.2mm_W5.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2"
 			(at 125.73 159.385 0)
 			(effects
 				(font
@@ -3429,6 +3438,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "MKS2B042201F00JSSD"
+			(at 125.73 159.385 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "69d2c8fe-3af3-4e48-9e07-f3a8c705cfdc")
 		)
@@ -3436,7 +3454,11 @@
 			(uuid "2a9f2af8-bb05-4d17-b3dc-6c6e7a72b703")
 		)
 		(instances
-			(project "OtterX"
+			(project ""
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "C47")
+					(unit 1)
+				)
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/35c1273b-9984-4872-b2ba-d9345784fd1c/e50dd233-8666-4e51-adc9-17748422bd2a"
 					(reference "C47")
 					(unit 1)

@@ -16810,7 +16810,8 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_02x12_Odd_Even")
-		(at 384.81 58.42 0)
+		(at 387.35 58.42 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16818,7 +16819,7 @@
 		(dnp no)
 		(uuid "33feb6aa-ae8f-4697-bebb-188ae5be6d71")
 		(property "Reference" "J2"
-			(at 385.445 38.1 0)
+			(at 386.715 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16826,15 +16827,15 @@
 			)
 		)
 		(property "Value" "VIA2 Header"
-			(at 385.445 40.64 0)
+			(at 386.715 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_2x12_P2.54mm_Vertical"
-			(at 384.81 58.42 0)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x12_P2.54mm_Vertical"
+			(at 387.35 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16843,7 +16844,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 384.81 58.42 0)
+			(at 387.35 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16852,7 +16853,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 384.81 58.42 0)
+			(at 387.35 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19660,7 +19661,7 @@
 		(fields_autoplaced yes)
 		(uuid "7ebdaad8-a8e8-4fd8-b7bd-7d14045c536e")
 		(property "Reference" "U1"
-			(at 60.3759 20.955 0)
+			(at 60.6141 20.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19668,8 +19669,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "W65C02S"
-			(at 60.3759 23.495 0)
+		(property "Value" "W65C816S"
+			(at 60.6141 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
