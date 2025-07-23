@@ -4595,6 +4595,18 @@
 			)
 		)
 	)
+	(gr_text "Rev:\nEV1"
+		(at 164.15 69.15 0)
+		(layer "F.SilkS")
+		(uuid "1535ba32-68fb-4d37-9e67-4aa176a82f48")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
 	(segment
 		(start 145.915 77.515)
 		(end 143.575 75.175)
