@@ -1292,6 +1292,16 @@
 	)
 	(wire
 		(pts
+			(xy 147.955 56.515) (xy 148.59 56.515)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7309be74-c0cd-4552-a808-fa35f22b60ae")
+	)
+	(wire
+		(pts
 			(xy 113.03 85.09) (xy 113.03 86.36)
 		)
 		(stroke
@@ -1319,6 +1329,16 @@
 			(type default)
 		)
 		(uuid "838274df-c3d3-4b79-9c3b-96d49e2ee7cb")
+	)
+	(wire
+		(pts
+			(xy 163.195 61.595) (xy 163.195 62.865)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "84c717a9-e15c-4f45-804b-097f2ff55c2c")
 	)
 	(wire
 		(pts
@@ -1382,6 +1402,26 @@
 	)
 	(wire
 		(pts
+			(xy 161.29 59.055) (xy 163.195 59.055)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a26801f2-7a0f-493d-bc15-0bc9bbd74886")
+	)
+	(wire
+		(pts
+			(xy 161.925 56.515) (xy 161.29 56.515)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a6d47b35-ff19-42de-baa4-6f210b997ab8")
+	)
+	(wire
+		(pts
 			(xy 102.87 86.36) (xy 105.41 86.36)
 		)
 		(stroke
@@ -1399,6 +1439,16 @@
 			(type default)
 		)
 		(uuid "aff49d0f-9d27-4f20-a0a0-72480ebe600d")
+	)
+	(wire
+		(pts
+			(xy 147.955 61.595) (xy 148.59 61.595)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b04f8362-31cb-48e7-ba33-9520baf28137")
 	)
 	(wire
 		(pts
@@ -1432,6 +1482,16 @@
 	)
 	(wire
 		(pts
+			(xy 161.29 61.595) (xy 163.195 61.595)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c53d36d5-e99e-487a-989f-fbff7d7b1881")
+	)
+	(wire
+		(pts
 			(xy 59.055 73.66) (xy 40.64 73.66)
 		)
 		(stroke
@@ -1439,6 +1499,16 @@
 			(type default)
 		)
 		(uuid "ca200d6f-3e19-4f0f-89fe-2a20a9ed1dd6")
+	)
+	(wire
+		(pts
+			(xy 147.955 59.055) (xy 148.59 59.055)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d6d1584a-0de8-4eb8-8d35-aa42bd84cec5")
 	)
 	(wire
 		(pts
@@ -1575,6 +1645,72 @@
 		(uuid "28733503-f736-44d2-addb-15455c1bcf8e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 82.8069 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "NESLATCH"
+		(shape input)
+		(at 147.955 59.055 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "3b77634b-bf3a-4b7f-8d73-b7a8cc849a61")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 136.1681 58.9756 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "NESCLK"
+		(shape input)
+		(at 147.955 61.595 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "4739475d-b78e-4594-a17d-2893abd41935")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 138.2848 61.5156 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "NESDAT3"
+		(shape output)
+		(at 163.195 59.055 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5379981c-33e8-41a9-85ff-1203d31dd755")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 173.8329 59.1344 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1740,6 +1876,28 @@
 	)
 	(global_label "NESDAT2"
 		(shape output)
+		(at 147.955 56.515 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "f725e4e7-d5c2-47f4-89ce-eb9a4afee80d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 137.3171 56.4356 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "NESDAT2"
+		(shape output)
 		(at 102.87 60.96 180)
 		(fields_autoplaced yes)
 		(effects
@@ -1757,6 +1915,71 @@
 				)
 				(justify right)
 				(hide yes)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 161.925 56.515 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3dccb4f8-50ed-4519-b4c7-24b714197f10")
+		(property "Reference" "#PWR8"
+			(at 158.115 56.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 166.37 56.515 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 161.925 56.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 161.925 56.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 161.925 56.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6672fc24-aa7e-4327-8fc2-de87978ed516")
+		)
+		(instances
+			(project "SNES_Dongle"
+				(path "/8e84a08d-7b5e-40f2-ab13-cd3f16bcb502"
+					(reference "#PWR8")
+					(unit 1)
+				)
 			)
 		)
 	)
@@ -2026,6 +2249,151 @@
 			(project "SNES_Dongle"
 				(path "/8e84a08d-7b5e-40f2-ab13-cd3f16bcb502"
 					(reference "H3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 163.195 62.865 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6e9ceac9-9896-4d21-b6f2-64e7a9187ce9")
+		(property "Reference" "#PWR9"
+			(at 163.195 69.215 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 163.195 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 163.195 62.865 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 163.195 62.865 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 163.195 62.865 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "739164bb-53de-4470-90f3-4a4123cbb54e")
+		)
+		(instances
+			(project "SNES_Dongle"
+				(path "/8e84a08d-7b5e-40f2-ab13-cd3f16bcb502"
+					(reference "#PWR9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_02x03_Odd_Even")
+		(at 153.67 59.055 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7f53d2a8-b5e7-4030-8a15-61f45e57120f")
+		(property "Reference" "J4"
+			(at 154.94 54.229 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "IDC_2x03"
+			(at 154.94 63.881 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_IDC:IDC-Header_2x03_P2.54mm_Vertical"
+			(at 153.67 59.055 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 153.67 59.055 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 153.67 59.055 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3c847554-1054-47b9-9eb4-d9cfe5c2ba45")
+		)
+		(pin "2"
+			(uuid "3cbbc069-b62a-4f07-91c1-926cbe91f450")
+		)
+		(pin "3"
+			(uuid "db17c9fc-d692-42b9-ab68-951897132786")
+		)
+		(pin "4"
+			(uuid "57344302-376e-4b8b-a874-ed2ec17b4f11")
+		)
+		(pin "5"
+			(uuid "69bf7f6b-7d87-4136-b054-8cb187be66c9")
+		)
+		(pin "6"
+			(uuid "dbbbe45a-d078-4a74-af5b-31d961a9830b")
+		)
+		(instances
+			(project "SNES_Dongle"
+				(path "/8e84a08d-7b5e-40f2-ab13-cd3f16bcb502"
+					(reference "J4")
 					(unit 1)
 				)
 			)
