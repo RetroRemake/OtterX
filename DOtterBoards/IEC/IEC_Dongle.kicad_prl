@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 37,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -14,19 +14,18 @@
       "vias": 1.0,
       "zones": 0.6
     },
-    "ratsnest_display_mode": 0,
     "selection_filter": {
-      "dimensions": false,
+      "dimensions": true,
       "footprints": true,
       "graphics": true,
-      "keepouts": false,
-      "lockedItems": true,
-      "otherItems": false,
-      "pads": false,
+      "keepouts": true,
+      "lockedItems": false,
+      "otherItems": true,
+      "pads": true,
       "text": true,
-      "tracks": false,
+      "tracks": true,
       "vias": true,
-      "zones": false
+      "zones": true
     },
     "visible_items": [
       0,
@@ -60,9 +59,11 @@
       33,
       34,
       35,
-      36
+      36,
+      39,
+      40
     ],
-    "visible_layers": "000f030_80000007",
+    "visible_layers": "ffdffff_ffffffff",
     "zone_display_mode": 0
   },
   "git": {
@@ -72,7 +73,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "MemoryExpansion.kicad_prl",
+    "filename": "IEC_Dongle.kicad_prl",
     "version": 3
   },
   "project": {

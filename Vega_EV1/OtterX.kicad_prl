@@ -1,10 +1,13 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 36,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
-    "hidden_nets": [],
+    "hidden_nets": [
+      "GND",
+      "+12V"
+    ],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
@@ -17,14 +20,14 @@
     "ratsnest_display_mode": 0,
     "selection_filter": {
       "dimensions": false,
-      "footprints": true,
-      "graphics": true,
+      "footprints": false,
+      "graphics": false,
       "keepouts": false,
-      "lockedItems": true,
+      "lockedItems": false,
       "otherItems": false,
       "pads": false,
       "text": true,
-      "tracks": false,
+      "tracks": true,
       "vias": true,
       "zones": false
     },
@@ -62,7 +65,7 @@
       35,
       36
     ],
-    "visible_layers": "000f030_80000007",
+    "visible_layers": "ffcffff_ffffffff",
     "zone_display_mode": 0
   },
   "git": {
@@ -72,7 +75,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "MemoryExpansion.kicad_prl",
+    "filename": "OtterX.kicad_prl",
     "version": 3
   },
   "project": {
